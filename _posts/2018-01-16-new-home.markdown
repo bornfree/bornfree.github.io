@@ -1,0 +1,12 @@
+---
+layout: post
+title: "New year New blog"
+date: 2018-01-16
+categories:
+  - Tech
+  - Travel
+description: 
+image: https://images.unsplash.com/photo-1441829266145-6d4bfbd38eb4?auto=format&fit=crop&w=2002&q=80
+image-sm: https://images.unsplash.com/photo-1441829266145-6d4bfbd38eb4?auto=format&fit=crop&w=2002&q=80
+---
+Got a lot to write on tech and travel
