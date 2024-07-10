@@ -27,11 +27,11 @@ And guess what. On the internet, only merit matters. Because around here, your d
 Let me share some amazing work already happening here.
 
 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) is proof how fun and satisfying it is to learn math. Most of the subscribers aren’t really math fanatics. Most of us are just there because it so wonderful to learn when Grant Sanderson teaches.
-![](__GHOST_URL__/content/images/downloaded_images/A-call-to-great-teachers/1-xiK0AttPEeoyMoGBKeEgCg.png)Borsuk Ulam theorem
+![](/assets/images/A-call-to-great-teachers/1-xiK0AttPEeoyMoGBKeEgCg.png)Borsuk Ulam theorem
 [RealEngineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg) is another channel that discusses things as basic as Newton’s laws and goes all the way to electric cars. And they do calculations in the video. Which you can *actually* understand.
-![](__GHOST_URL__/content/images/downloaded_images/A-call-to-great-teachers/1-yVnr0gc-t_4XfqiDx6FLFQ.png)Why are plane windows round?
+![](/assets/images/A-call-to-great-teachers/1-yVnr0gc-t_4XfqiDx6FLFQ.png)Why are plane windows round?
 My newest find has been [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ). Videos that explain natural selection, genetics and economics. Just one word to describe it: *awesome*.
-![](__GHOST_URL__/content/images/downloaded_images/A-call-to-great-teachers/1-Sg_x545ozTGIhZPNCxjntw.png)Are markets good?
+![](/assets/images/A-call-to-great-teachers/1-Sg_x545ozTGIhZPNCxjntw.png)Are markets good?
 So this post is actually a call to great teachers.
 I urge you, I ***implore*** you to teach online. There literally are thousands of people who want to learn.
 
@@ -41,4 +41,4 @@ Luckily the economics of teaching online are also changing. This needn’t be an
 Add to that the many sponsors you can get once you have a user-base.
 
 Let me end this on a simultaneously serious and fun note.
-![](__GHOST_URL__/content/images/downloaded_images/A-call-to-great-teachers/1-DHF7MykSZ6iZaih_L9UwHA.jpeg)
+![](/assets/images/A-call-to-great-teachers/1-DHF7MykSZ6iZaih_L9UwHA.jpeg)

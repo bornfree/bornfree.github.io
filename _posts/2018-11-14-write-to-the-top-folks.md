@@ -20,4 +20,4 @@ I do not know why. Maybe it is empathy, maybe it is enthusiasm or maybe it feels
 Just don’t write a careless mail. Do you homework. Ask the right questions. Keep it short. *Be genuine* and don’t waste their time. And you’ll be surprised to know how helpful they are.
 
 This is not to say that there aren’t more zealous folks at companies. But if you’re going to bet, bet it on the top-most people.
-![](__GHOST_URL__/content/images/downloaded_images/Write-to-the-top-folks/1-QaykX0MjC0k0Q-UGhbTxMQ.jpeg)
+![](/assets/images/Write-to-the-top-folks/1-QaykX0MjC0k0Q-UGhbTxMQ.jpeg)

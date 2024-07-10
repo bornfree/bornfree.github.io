@@ -21,4 +21,4 @@ When we block out other people not by intention but simply by design (you don’
 
 Then I’m curious to know how to create more of such environments. Where people can forget the world around them and *think*. 
 *Just think.*
-![](__GHOST_URL__/content/images/downloaded_images/Shower-thoughts-on-shower-thoughts/1-btIYQpKR-fcu3YKKZazuiA.jpeg)
+![](/assets/images/Shower-thoughts-on-shower-thoughts/1-btIYQpKR-fcu3YKKZazuiA.jpeg)

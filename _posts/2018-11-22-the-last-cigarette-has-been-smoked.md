@@ -8,7 +8,7 @@ The last night in Malapascua, I finished half a packet of Marlboro over beer. Th
 
 ---
 
-![](__GHOST_URL__/content/images/downloaded_images/The-last-cigarette-has-been-smoked/1-OznTfkCN85K9NM2T2pV6-A.jpeg)It was probably on the ferry. From Liloan to Dumaguete watching the sunset over the Philippines sea.
+![](/assets/images/The-last-cigarette-has-been-smoked/1-OznTfkCN85K9NM2T2pV6-A.jpeg)It was probably on the ferry. From Liloan to Dumaguete watching the sunset over the Philippines sea.
 The last night in Malapascua, I finished half a packet of Marlboro over beer. The other half was still in my bag.
 
 Before some exasperating philosophy swept over me, I decided to quit. I just told myself that the last cigarette ***has been smoked***.

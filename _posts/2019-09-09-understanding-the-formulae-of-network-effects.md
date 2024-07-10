@@ -9,7 +9,7 @@ A16Z describes three different network effect formulae in their deck.
 ---
 
 A16Z describes three different network effect formulae in their deck.
-![](__GHOST_URL__/content/images/downloaded_images/Understanding-the-formulae-of-network-effects/1-G_w-0hf2MoBL_KZGJ6FfUA.png)https://a16z.com/2016/03/07/all-about-network-effects/
+![](/assets/images/Understanding-the-formulae-of-network-effects/1-G_w-0hf2MoBL_KZGJ6FfUA.png)https://a16z.com/2016/03/07/all-about-network-effects/
 Ever wondered how the formulae came to be without looking it up? It’s actually simple.
 
 Well, the value formula is a way of quantitatively assessing how many connections can be formed within the network.
@@ -49,4 +49,4 @@ But yeah, for brevity *V ∝ 2^n*.
 Because, as a company, you want to have as many ways to reach a particular user as possible to deliver your product.
 
 ### And the graph
-![](__GHOST_URL__/content/images/downloaded_images/Understanding-the-formulae-of-network-effects/1-geiBFImHupRt7x2KnJVYLQ.jpeg)https://redcatco.com/communication/metcalfes-law-really-useful-not/
+![](/assets/images/Understanding-the-formulae-of-network-effects/1-geiBFImHupRt7x2KnJVYLQ.jpeg)https://redcatco.com/communication/metcalfes-law-really-useful-not/

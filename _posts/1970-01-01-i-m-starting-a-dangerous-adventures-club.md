@@ -18,7 +18,7 @@ Sitting mostly in a group of people who do not understand that, even worse mock 
 Now I’m setting out to find the people who think otherwise. People that scare me to do things. Things I myself would shudder to do.
 
 Let me give you an example by what I mean when I say *not dangerous*
-![](__GHOST_URL__/content/images/downloaded_images/I-m-starting-a-dangerous-adventures-club/1-HCFYkAuoBlcjCxRG71OwNA.jpeg)
+![](/assets/images/I-m-starting-a-dangerous-adventures-club/1-HCFYkAuoBlcjCxRG71OwNA.jpeg)
 
 This is me skydiving in Langkawi from~10000ft
 
