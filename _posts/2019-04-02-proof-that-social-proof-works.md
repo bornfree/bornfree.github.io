@@ -28,4 +28,4 @@ That’s the power of social proof. So next time if you’re starting a restaura
 
 Same goes with any other kind of business.
 It’s not cheating. It’s just strategy. That’s how people work.
-![](__GHOST_URL__/content/images/downloaded_images/Proof-that-social-proof-works/1-Dy_MZlg3bnjCGmHl1272Tw.jpeg)Customary photo of Bagheera :P
+![](/assets/images/Proof-that-social-proof-works/1-Dy_MZlg3bnjCGmHl1272Tw.jpeg)Customary photo of Bagheera :P
