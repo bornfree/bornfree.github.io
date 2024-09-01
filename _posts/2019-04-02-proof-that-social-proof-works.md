@@ -3,9 +3,6 @@ title: Proof that social proof works
 slug: proof-that-social-proof-works
 date_published: 2019-04-02T00:00:00.000Z
 date_updated: 2019-04-02T00:00:00.000Z
-excerpt: 
-Too often we aren’t convinced about facts until we experience them firsthand. Kind-of unfortunate but true.
-
 ---
 
 Too often we aren’t convinced about facts until we experience them firsthand. Kind-of unfortunate but true.

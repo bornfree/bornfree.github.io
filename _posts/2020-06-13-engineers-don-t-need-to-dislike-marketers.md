@@ -3,10 +3,6 @@ title: Engineers don’t need to dislike marketers
 slug: engineers-don-t-need-to-dislike-marketers
 date_published: 2020-06-13T04:31:17.000Z
 date_updated: 2020-06-13T04:32:51.000Z
-excerpt: 
-Engineers and marketers deal with different aspects of the world. 
-These share little in common.
-
 ---
 
 **Stochastic**

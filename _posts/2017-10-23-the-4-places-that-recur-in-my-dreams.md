@@ -3,9 +3,6 @@ title: The 4 places that recur in my dreams
 slug: the-4-places-that-recur-in-my-dreams
 date_published: 2017-10-23T00:00:00.000Z
 date_updated: 2017-10-23T00:00:00.000Z
-excerpt: 
-The mountain trail 1
-
 ---
 
 ![](/assets/images/The-4-places-that-recur-in-my-dreams/1-0NqqhzZk4-V2xSVXBtuLrg.jpeg)

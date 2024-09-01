@@ -3,9 +3,6 @@ title: Travel is Dopamine. Adventure is Adrenalin.
 slug: travel-is-dopamine--adventure-is-adrenalin-
 date_published: 2018-07-13T00:00:00.000Z
 date_updated: 2018-07-13T00:00:00.000Z
-excerpt: 
-The cave rescue of Thai boys soccer team sent off a flurry of emotions. A flood of happy chemicals through my body.
-
 ---
 
 The cave rescue of Thai boys soccer team sent off a flurry of emotions. A flood of happy chemicals through my body.

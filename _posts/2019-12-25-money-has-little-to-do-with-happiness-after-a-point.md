@@ -3,9 +3,6 @@ title: Money has little to do with happiness after a point
 slug: money-has-little-to-do-with-happiness-after-a-point
 date_published: 2019-12-25T00:00:00.000Z
 date_updated: 2022-10-27T06:59:20.000Z
-excerpt: 
-There is a point when money stops buying happiness. It can happen at different points for different people. But I think it happens to all…
-
 ---
 
 There is a point when money stops buying happiness. It can happen at different points for different people. But I think it happens to all of us. Some of us notice it, some of us don’t.

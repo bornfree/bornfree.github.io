@@ -3,9 +3,6 @@ title: A business model explained in 20 words
 slug: a-business-model-explained-in-20-words
 date_published: 2019-04-10T00:00:00.000Z
 date_updated: 2019-04-10T00:00:00.000Z
-excerpt: 
-Now I don’t know a great deal about business the way MBAs do. But I know a thing or two about startups. So I’ll tell you what a business…
-
 ---
 
 Now I don’t know a great deal about business the way MBAs do. But I know a thing or two about startups. So I’ll tell you what a business model is.

@@ -3,9 +3,6 @@ title: Understanding the formulae of network effects
 slug: understanding-the-formulae-of-network-effects
 date_published: 2019-09-09T00:00:00.000Z
 date_updated: 2019-09-09T00:00:00.000Z
-excerpt: 
-A16Z describes three different network effect formulae in their deck.
-
 ---
 
 A16Z describes three different network effect formulae in their deck.

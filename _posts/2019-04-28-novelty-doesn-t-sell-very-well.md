@@ -3,9 +3,6 @@ title: Novelty doesn’t sell very well
 slug: novelty-doesn-t-sell-very-well
 date_published: 2019-04-28T00:00:00.000Z
 date_updated: 2019-04-28T00:00:00.000Z
-excerpt: 
-If you look around, generally in the Indian startup scene, the really successful companies don’t do anything significantly novel.
-
 ---
 
 If you look around, generally in the Indian startup scene, the really successful companies don’t do anything significantly *novel*.

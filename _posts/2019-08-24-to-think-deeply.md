@@ -3,9 +3,6 @@ title: To think deeply
 slug: to-think-deeply
 date_published: 2019-08-24T00:00:00.000Z
 date_updated: 2019-08-24T00:00:00.000Z
-excerpt: 
-Think slowly
-
 ---
 
 ![](/assets/images/To-think-deeply/1-xHMYsyMxnRCOdl6xhknXCw.jpeg)

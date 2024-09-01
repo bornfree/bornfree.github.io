@@ -3,10 +3,6 @@ title: Music is now a secondary activity
 slug: music-is-now-a-secondary-activity
 date_published: 2019-05-18T00:00:00.000Z
 date_updated: 2019-05-18T00:00:00.000Z
-excerpt: 
-Nobody just listens to music anymore.
-Think about it for a second.
-
 ---
 
 Nobody *just* listens to music anymore.

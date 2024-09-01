@@ -3,12 +3,6 @@ title: Typical product design process
 slug: typical-product-design-process
 date_published: 2019-12-02T00:00:00.000Z
 date_updated: 2019-12-02T00:00:00.000Z
-excerpt: 
-1. Understand the business problem
-2. Define all stakeholder and users
-3. For each 2, define needs, desires and problems
-4. For each 3…
-
 ---
 
 1. Understand the business problem

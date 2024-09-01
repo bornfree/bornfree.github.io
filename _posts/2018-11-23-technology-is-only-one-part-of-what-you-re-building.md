@@ -3,9 +3,6 @@ title: Technology is only one part of what you’re building
 slug: technology-is-only-one-part-of-what-you-re-building
 date_published: 2018-11-23T00:00:00.000Z
 date_updated: 2018-11-23T00:00:00.000Z
-excerpt: 
-In a technology venture, the role of technology is vital. As an engineer, I’ve often wondered how anything else can be more important.
-
 ---
 
 In a technology venture, the role of technology is vital. As an engineer, I’ve often wondered how anything else can be more important.

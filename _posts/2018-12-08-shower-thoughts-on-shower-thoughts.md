@@ -3,9 +3,6 @@ title: Shower thoughts on shower thoughts
 slug: shower-thoughts-on-shower-thoughts
 date_published: 2018-12-08T00:00:00.000Z
 date_updated: 2018-12-08T00:00:00.000Z
-excerpt: 
-Why are shower thoughts a thing?
-
 ---
 
 Why are shower thoughts a *thing*?

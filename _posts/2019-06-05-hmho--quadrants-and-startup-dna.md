@@ -3,9 +3,6 @@ title: "HMHO: Quadrants and startup DNA"
 slug: hmho--quadrants-and-startup-dna
 date_published: 2019-06-05T00:00:00.000Z
 date_updated: 2019-06-05T00:00:00.000Z
-excerpt: 
-In the previous post, we established the axes and plotted startups on it.
-
 ---
 
 In the previous post, we established the axes and plotted startups on it.

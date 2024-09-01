@@ -3,9 +3,6 @@ title: "HMHO: A framework for looking at startups"
 slug: hmho--a-framework-for-looking-at-startups
 date_published: 2019-05-20T00:00:00.000Z
 date_updated: 2019-05-20T00:00:00.000Z
-excerpt: 
-I ended up conceptualizing a framework while evaluating the market opportunity for my own startup, ImageTranslate.
-
 ---
 
 I ended up conceptualizing a framework while evaluating the market opportunity for my own startup, [ImageTranslate](https://www.imagetranslate.com).

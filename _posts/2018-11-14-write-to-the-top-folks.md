@@ -3,9 +3,6 @@ title: Write to the top folks
 slug: write-to-the-top-folks
 date_published: 2018-11-14T00:00:00.000Z
 date_updated: 2018-11-14T00:00:00.000Z
-excerpt: 
-When you’re writing an email to a company, you can try to find somebody like managers, division-heads… or you can write to the founders…
-
 ---
 
 When you’re writing an email to a company, you can try to find somebody like managers, division-heads… or you can write to the founders, CEOs and directors.

@@ -3,9 +3,6 @@ title: A call to great teachers
 slug: a-call-to-great-teachers
 date_published: 2019-05-01T00:00:00.000Z
 date_updated: 2019-05-01T00:00:00.000Z
-excerpt: 
-Learning is an absolutely delightful activity.
-
 ---
 
 Learning is an absolutely delightful activity.

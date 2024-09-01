@@ -3,9 +3,6 @@ title: Multilingual. Where, what?
 slug: multilingual--where--what-
 date_published: 2018-02-24T00:00:00.000Z
 date_updated: 2018-02-24T00:00:00.000Z
-excerpt: 
-It didn’t occur to me until my colleague pointed it out. There is a big company that went multilingual with their website but failed to the…
-
 ---
 
 It didn’t occur to me until my colleague pointed it out. There is a big company that went multilingual with their website but failed to the bare minimum to point out to their users that they have.

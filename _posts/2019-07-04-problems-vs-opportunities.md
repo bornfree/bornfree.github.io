@@ -3,9 +3,6 @@ title: Problems vs Opportunities
 slug: problems-vs-opportunities
 date_published: 2019-07-04T00:00:00.000Z
 date_updated: 2019-07-04T00:00:00.000Z
-excerpt: 
-Startups often get asked what problem they solve for their users. While this is a useful gauge to measure the potential, it is also…
-
 ---
 
 Startups often get asked what *problem *they solve for their users. While this is a useful gauge to measure the potential, it is also limiting.

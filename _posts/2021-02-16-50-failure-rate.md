@@ -3,7 +3,6 @@ title: 50% failure rate
 slug: 50-failure-rate
 date_published: 2021-02-16T16:35:46.000Z
 date_updated: 2021-02-16T16:35:46.000Z
-tags: travel
 ---
 
 That's the rate at which my travels fail.

@@ -3,9 +3,6 @@ title: Why teach AIs how to play games
 slug: why-teach-ais-how-to-play-games
 date_published: 2020-07-14T12:50:00.000Z
 date_updated: 2022-06-28T12:53:18.000Z
-excerpt: 
-Given there are far more pressing problems that AIs can potentially solve, say drug discovery, road traffic optimization, stock market…
-
 ---
 
 Given there are far more pressing problems that AIs can potentially solve, say drug discovery, road traffic optimization, stock market predictions etc, why is it that every time every AIs win a particular game, it is considered a big deal?
