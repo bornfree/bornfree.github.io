@@ -4,9 +4,6 @@ slug: i-m-starting-a-dangerous-adventures-club
 date_published: 1970-01-01T00:00:00.000Z
 date_updated: 2020-01-04T10:04:34.000Z
 draft: true
-excerpt: 
-Do we need another one? Yes. Because the dangerous one that I want doesn’t seem to exist around here. Over time, I’ve realized that I…
-
 ---
 
 Do we need another one? Yes. Because the *dangerous* one that I want doesn’t seem to exist around here. Over time, I’ve realized that I indeed have an affinity for the perilous and uncertain. An affinity hard to ignore.
