@@ -3,10 +3,11 @@ title: Understanding the formulae of network effects
 slug: understanding-the-formulae-of-network-effects
 date_published: 2019-09-09T00:00:00.000Z
 date_updated: 2019-09-09T00:00:00.000Z
+image: /assets/images/Understanding-the-formulae-of-network-effects/1-G_w-0hf2MoBL_KZGJ6FfUA.png
 ---
 
 A16Z describes three different network effect formulae in their deck.
-![](/assets/images/Understanding-the-formulae-of-network-effects/1-G_w-0hf2MoBL_KZGJ6FfUA.png)https://a16z.com/2016/03/07/all-about-network-effects/
+https://a16z.com/2016/03/07/all-about-network-effects/
 Ever wondered how the formulae came to be without looking it up? It’s actually simple.
 
 Well, the value formula is a way of quantitatively assessing how many connections can be formed within the network.

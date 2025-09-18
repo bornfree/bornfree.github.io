@@ -3,9 +3,10 @@ title: The last cigarette has been smoked
 slug: the-last-cigarette-has-been-smoked
 date_published: 2018-11-22T00:00:00.000Z
 date_updated: 2018-11-22T00:00:00.000Z
+image: /assets/images/The-last-cigarette-has-been-smoked/1-OznTfkCN85K9NM2T2pV6-A.jpeg
 ---
 
-![](/assets/images/The-last-cigarette-has-been-smoked/1-OznTfkCN85K9NM2T2pV6-A.jpeg)It was probably on the ferry. From Liloan to Dumaguete watching the sunset over the Philippines sea.
+It was probably on the ferry. From Liloan to Dumaguete watching the sunset over the Philippines sea.
 The last night in Malapascua, I finished half a packet of Marlboro over beer. The other half was still in my bag.
 
 Before some exasperating philosophy swept over me, I decided to quit. I just told myself that the last cigarette ***has been smoked***.

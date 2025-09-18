@@ -3,10 +3,11 @@ title: "HMHO: Quadrants and startup DNA"
 slug: hmho--quadrants-and-startup-dna
 date_published: 2019-06-05T00:00:00.000Z
 date_updated: 2019-06-05T00:00:00.000Z
+image: /assets/images/HMHO--Quadrants-and-startup-DNA/1-4OBkatZuUNPYvJHCZf1S1Q.png
 ---
 
 In the previous post, we established the axes and plotted startups on it.
-![](/assets/images/HMHO--Quadrants-and-startup-DNA/1-4OBkatZuUNPYvJHCZf1S1Q.png)The 4 quadrants with representative startups for each
+The 4 quadrants with representative startups for each
 If we label these quadrants, we can talk about the characteristics that define them.
 
 ### Quadrant 1 : Top-right

@@ -5,7 +5,6 @@ date_published: 2017-10-23T00:00:00.000Z
 date_updated: 2017-10-23T00:00:00.000Z
 ---
 
-![](/assets/images/The-4-places-that-recur-in-my-dreams/1-0NqqhzZk4-V2xSVXBtuLrg.jpeg)
 ## The mountain trail 1
 
 This one is something I have a feeling is somewhere in Rishikesh. It was always there and we missed it. At the end of the tourist path begins a long long trail. There’s no elevation gain, but the ledge is too narrow to walk. You have to hang from the top ledge and move. And it’s a very very very long trail. Interestingly you can see all of it in one go. It’s a long curve. Gorgeous but scary. I don’t think I got to the end of it in any dreams.

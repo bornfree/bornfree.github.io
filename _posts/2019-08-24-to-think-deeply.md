@@ -3,9 +3,9 @@ title: To think deeply
 slug: to-think-deeply
 date_published: 2019-08-24T00:00:00.000Z
 date_updated: 2019-08-24T00:00:00.000Z
+image: /assets/images/To-think-deeply/1-xHMYsyMxnRCOdl6xhknXCw.jpeg
 ---
 
-![](/assets/images/To-think-deeply/1-xHMYsyMxnRCOdl6xhknXCw.jpeg)
 ### Think slowly
 
 Knowledge they say is a *process*, not an answer. When faced with a problem or question, we are often tempted to get to the answer as fast as possible and forget our thought process that leads us to the answer.

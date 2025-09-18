@@ -4,6 +4,7 @@ slug: i-m-starting-a-dangerous-adventures-club
 date_published: 1970-01-01T00:00:00.000Z
 date_updated: 2020-01-04T10:04:34.000Z
 draft: true
+image: /assets/images/I-m-starting-a-dangerous-adventures-club/1-HCFYkAuoBlcjCxRG71OwNA.jpeg
 ---
 
 Do we need another one? Yes. Because the *dangerous* one that I want doesn’t seem to exist around here. Over time, I’ve realized that I indeed have an affinity for the perilous and uncertain. An affinity hard to ignore.
@@ -15,7 +16,6 @@ Sitting mostly in a group of people who do not understand that, even worse mock 
 Now I’m setting out to find the people who think otherwise. People that scare me to do things. Things I myself would shudder to do.
 
 Let me give you an example by what I mean when I say *not dangerous*
-![](/assets/images/I-m-starting-a-dangerous-adventures-club/1-HCFYkAuoBlcjCxRG71OwNA.jpeg)
 
 This is me skydiving in Langkawi from~10000ft
 
