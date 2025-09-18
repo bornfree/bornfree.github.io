@@ -19,7 +19,7 @@ The weakest and laziest answer perhaps is to say *everything*.
 
 To be honest, the LOTR actually scores so well in so many aspects like plot, characters, dialogue, music, cinematography, costume design that the answer might as well be *everything*.
 
-If that is indeed the case, then it is a staggering achievement because [movies don't lend themselves to genius](__GHOST_URL__/on-books-movies-and-thinking/). 
+If that is indeed the case, then it is a staggering achievement because movies don't lend themselves to genius easily. 
 
 Bringing Tolkien's magnum opus to the screen would have surely required an absurd amount of courage and a hint of madness on PJ's part. Throw in a little bit of  luck too.
 

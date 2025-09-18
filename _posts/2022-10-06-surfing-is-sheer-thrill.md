@@ -17,7 +17,7 @@ Once you're in the sea, it's just exhilarating. It's quite impossible to explain
 Anyway, turns out the harder part for me was getting back into the sea after a riding a wave. Paddling against the waves really *really* exerts your body. 
 
 Even crazier is when an incoming wave is **too fucking big** that you have to let go of your board and just go head down into the water. Of course the wave doesn't simply pass you. It tugs you with your leash and *drags* you under for a few seconds. Remember, this isn't swimming or scuba where you have your goggles on. So you simply have to trust that once the tugging is done, you'll surface and breathe fine. 
-![](__GHOST_URL__/content/images/2022/10/surf-tech2_fe.webp)These seconds, these few seconds are pure unadulterated adrenaline rush.
+![These seconds, these few seconds are pure unadulterated adrenaline rush.](https://via.placeholder.com/600x400/0099cc/ffffff?text=Surfing+Big+Wave)
 I realized later that surfing requires a fair amount of confidence. I would happily encourage anyone to try diving whether or not they've ever been in the water. But surfing, especially in big waves, requires that you be *really* comfortable in the water.
 
 ---

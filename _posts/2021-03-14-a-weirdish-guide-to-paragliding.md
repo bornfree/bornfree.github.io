@@ -35,7 +35,7 @@ How surprising! First, *it* has to get into air. Then *you* can.
 
 Say you dragged the glider forward with all your energy. What happens?
 Nothing. The air simply flows over the glider unobstructed.
-![](__GHOST_URL__/content/images/2021/03/high-strength-full-cricket-pitch-cover-rain-protection-cover-for-cricket-pitch-and-wickets-500x500.jpg)If this worked, these guys would be gliding.
+![If this worked, these guys would be gliding.](https://via.placeholder.com/500x400/cccccc/666666?text=Cricket+pitch+cover)
 But you're smart. You figure out that if you folded the *leading-edge* a little and pulled again, something amazing happens.
 
 <image showing air obstruction and subsequent uplift>
@@ -81,7 +81,7 @@ When we say fast, we mean fast enough so that lift generated is greater than you
 Before we go to the next step, there's another important detail that one wouldn't know unless you observed a glider up close. There are actually two surfaces in a glider: top and bottom. But why?
 
 The answer is *rigidity*. You need the glider to be rigid so that it can have a shape and be stable. How can we do this without making it solid and heavy? Remember those air-pillows from childhood that they sold in railway stations?
-![](__GHOST_URL__/content/images/2021/03/air-pillow-khaki-500x500.jpg)Rigid, light and foldable. Just what we want.
+![Rigid, light and foldable. Just what we want.](https://via.placeholder.com/500x400/cccccc/666666?text=Air+pillow)
 Please re-imagine the glider in the previous images with two surfaces. Can't draw them all again. Here's one for reference.
 
 <image of glider with 2 surfaces>

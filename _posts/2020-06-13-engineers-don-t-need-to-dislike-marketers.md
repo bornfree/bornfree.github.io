@@ -25,7 +25,7 @@ A program that adds two numbers is absolutely deterministic you may say. But thi
 
 So why is computer programming more deterministic than marketing?
 Because humans invented the model called computer. It has all the components *we* created ourselves. Whose behavior is known and understood at a very high precision and probability.
-![](__GHOST_URL__/content/images/2020/06/chip_and_people.jpg)Things on the left are surprisingly well-understood than things on the right
+![Things on the left are surprisingly well-understood than things on the right](https://via.placeholder.com/600x300/cccccc/666666?text=Chip+vs+People)
 Whereas something like marketing operates in a different model that deals with components called humans, among other things. These things are not understood at the same degree MOSFETs or operating system kernels are understood. Even worse, they behave differently in every iteration.
 
 In general, the world of machines is more deterministic than the natural world. Simply because we invented those worlds. Until we fully understand the worlds not invented by us, we must stay humble and curious.

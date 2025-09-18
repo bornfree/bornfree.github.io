@@ -36,7 +36,7 @@ I started to learn math, because I simply wanted to understand things better. No
 
 That's when the beauty truly emerged. Math can move you as much as poetry. Believe me! 
 Math is about intuition, about expression, about imagination and so many things more. A lot of disciplines ranging from physics to economics can be expressed and learnt through math.
-![](__GHOST_URL__/content/images/2022/07/image.png)https://xkcd.com/435/
+![https://xkcd.com/435/](https://imgs.xkcd.com/comics/purity.png)
 ### Where I'm now
 
 For the past few years I've regularly been dealing with math in programming. It brings a rigor to problem solving that is not possible by other means. You can reason with confidence and execute scientifically.

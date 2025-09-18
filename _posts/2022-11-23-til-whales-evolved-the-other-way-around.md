@@ -24,5 +24,5 @@ Whales along with others like dolphins, porpoises etc went the other way around.
 > This also explains how some evolutionary changes are easier to come by than others.  It is easier to morph a foot into a fin (structural change) than morph a lung to a gill (functional change).
 
 The most revealing evidence presents itself when we compare the interior anatomy of a whale with a shark and a bear.
-![](__GHOST_URL__/content/images/2022/11/x.jpg)On the outside whales and sharks look similar. On the inside whales and bears look similar.
+![On the outside whales and sharks look similar. On the inside whales and bears look similar.](https://via.placeholder.com/600x400/cccccc/666666?text=Whale+vs+Shark+vs+Bear+anatomy)
 Next time you see a whale, don't forget to appreciate how similar you both are on the inside! And maybe ask them if we can do something to bring them back. 🙂
